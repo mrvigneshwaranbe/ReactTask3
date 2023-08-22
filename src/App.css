@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+h2{
+  font-size: larger;
+  color: azure;
+}
+#home{
+  height: 100vh;
+  background-color: cyan;
+}
+#about{
+  
+    height: 100vh;
+    background: brown;
+  }
+#contact{
+  height: 100vh;
+  background-color: lime;
+}
+#career{
+  height: 100vh;
+  background-color: red;
+}
